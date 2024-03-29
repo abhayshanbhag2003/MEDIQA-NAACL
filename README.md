@@ -1,4 +1,4 @@
-﻿# MEDIQA-NAACL(Refer Master Branch)
+﻿# MEDIQA-NAACL
 This repository contains code for MEDIQA 2024 Shared Tasks -> [MEDIQA-CORR: Medical Error Detection & Correction](https://www.codabench.org/competitions/1900/)
 
 ## APPROACH
